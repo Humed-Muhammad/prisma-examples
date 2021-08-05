@@ -10,7 +10,7 @@
     "trailingComma": "all"
   },
   "dependencies": {
-    "@graphql-tools/schema": "7.1.5",
+    "@graphql-tools/schema": "8.0.3",
     "@prisma/client": "2.28.0",
     "express": "4.17.1",
     "express-graphql": "0.12.0",
